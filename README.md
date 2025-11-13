@@ -151,8 +151,18 @@ cd ~/codeassist
 ---
 
 ### **Step 6 Run the Application**
-```bash
+
+
+```
+
+echo 'export OLLAMA_BASE_URL="http://localhost:11500"' >> ~/.bashrc
+echo 'export OLLAMA_HOST="http://localhost:11500"' >> ~/.bashrc
+source ~/.bashrc
+
+then
+
 uv run run.py
+
 ```
 
 When prompted for your **Hugging Face token**:
