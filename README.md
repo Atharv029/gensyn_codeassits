@@ -78,6 +78,18 @@ uv.run("app:app", host="0.0.0.0", port=3000)
 uv.run("app:app", host="0.0.0.0", port=3001)
 ```
 
+after last update both rl-swarm and code assits using the ollama and it running on same port so some faced to run this two node on vps 
+so here is the solution chnage the port for ollama also in run.py 
+
+you will see red comment like this 
+
+<img width="1036" height="402" alt="image" src="https://github.com/user-attachments/assets/ff30bb0a-46a3-4d1c-b2e0-9b97073f4136" />
+
+change this port number to 11500 
+
+<img width="1036" height="402" alt="image" src="https://github.com/user-attachments/assets/a0f8331a-8317-4841-a4c4-46d8dcfa75a1" />
+
+
 Save and exit.
 
 ---
