@@ -110,6 +110,8 @@ after this scroll down more and you will see this same here change port number t
 
 Save and exit.
 
+---
+
 then 
 
 ```
@@ -117,11 +119,16 @@ cd web-ui/src/simulation/simulators && nano OllamaCodeSimulator.ts
 
 ```
 
+
 scroll down and do change here 
+
 
 <img width="1166" height="255" alt="image" src="https://github.com/user-attachments/assets/21e649e3-9824-4540-94ad-7d43563c8029" />
 
+
 Save and exit (`Ctrl + X`, `press y and Enter`, )
+
+
 
 go to codeassist directory 
 ```
