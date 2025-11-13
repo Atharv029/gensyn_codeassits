@@ -154,7 +154,6 @@ then
 uv run run.py --port 3001
 ```
 
-```
 
 When prompted for your **Hugging Face token**:
 - Paste it using **Ctrl + V** (it won’t appear on screen).
