@@ -65,11 +65,7 @@ so chnage this port number also to 11500
 
 like this 
 
-<img width="737" height="251" alt="image" src="https://github.com/user-attachments/assets/e63fec9d-eee3-44b0-b918-b19daf9befc1" />
-
-same changes here 
-
-<img width="1484" height="304" alt="image" src="https://github.com/user-attachments/assets/804ca27b-8bf7-42db-95a8-09dbded3f070" />
+<img width="746" height="368" alt="image" src="https://github.com/user-attachments/assets/24f2ad98-fb89-477b-a366-127e41f5758f" />
 
 
 Save and exit (`Ctrl + X`, `press y and Enter`, ).
@@ -99,12 +95,15 @@ so here is the solution chnage the port for ollama also in run.py
 you will see red comment like this and there will be port number 11434 so change that port number to 11500  
 
 
-<img width="1036" height="402" alt="image" src="https://github.com/user-attachments/assets/a0f8331a-8317-4841-a4c4-46d8dcfa75a1" />
+<img width="1149" height="392" alt="image" src="https://github.com/user-attachments/assets/03f1bdc0-8386-4d45-bbcb-0c15b92e6434" />
 
+---
 
 after this scroll down more and you will see this same here change port number to 11500
 
+
 <img width="1205" height="301" alt="image" src="https://github.com/user-attachments/assets/8fef012a-9dea-4acd-97de-789f49ed180f" />
+
 
 Save and exit.
 
